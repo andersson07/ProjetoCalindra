@@ -8,14 +8,14 @@ GeoMapAddres a idéia é buscar endereços utilizando a Geocoding Api do google 
 
 
 # Tecnologias utilizadas
-## Back end
+## Backend
 - Java
 - Spring Boot
 - Maven
 
 # Como executar o projeto
 
-## Back end
+## Backend
 Pré-requisitos: Java 11
 
 ```bash
@@ -28,10 +28,6 @@ cd geoMapAddress
 # executar o projeto
 ./mvnw spring-boot:run
 ```
-
-```bash
-# clonar repositório
-git clone https://github.com/andersson07/PortifolioDsMovie.git
 
 
 # Autor
